@@ -1,0 +1,77 @@
+[
+    {
+        "precio":30,
+        "id":1,
+        "title":"doritos chess",
+        "thumbnaiUrl":"https://bubbleroma.it/wp-content/uploads/2022/02/JIMMYS-POPCORN-SWEET-CHILI-CHEESE-WITH-TABASCO-copia-100x100.jpg"
+
+    },
+    {
+        "precio":40,
+        "id":2,
+        "title":"rufles verdes",
+        "thumbnaiUrl":"https://thats-so-kitsch.com/wp-content/uploads/2021/04/8E87EB4A-3F3D-4BEE-879F-0129FA40B7E5-100x100.jpeg"
+    },
+    {
+        "precio":50,
+        "id":3,
+        "title":"rufles amarillos",
+        "thumbnaiUrl":"https://dolcisalat30.com/wp-content/uploads/2022/03/g023cc7-100x100.png"
+    },
+    {
+        "precio":35,
+        "id":4,
+        "title":"doritos rojos",
+        "thumbnaiUrl":"https://modelhogaratlixco.com/wp-content/uploads/2020/05/DORITOS-100x100.jpg"
+    },
+    {
+        "precio":25,
+        "id":5,
+        "title":"doritos  amarillos",
+        "thumbnaiUrl":"https://dolcisalat30.com/wp-content/uploads/2022/03/81xbEei9DxL._AC_SL1500_-100x100.jpg"
+    },
+    {
+        "precio":24,
+        "id":6,
+        "title":"doritos morados",
+        "thumbnaiUrl":"https://patomarket.com/wp-content/uploads/2022/01/00750047802604L-100x100.jpg"
+    },
+    {
+        "precio":21,
+        "id":7,
+        "title":"doritos verdes",
+        "thumbnaiUrl":"https://bubbleroma.it/wp-content/uploads/2022/05/Doritos-Chilli-100x100.jpg"
+
+    },
+    {
+        "precio":26,
+        "id":8,
+        "title":"doritos naranjas",
+        "thumbnaiUrl":"https://bubbleroma.it/wp-content/uploads/2022/05/Doritos-flamin-hot-tex-mex-100x100.jpg"
+    },
+    {
+        "precio":15,
+        "id":9,
+        "title":"snickers",
+        "thumbnaiUrl":"https://magicbox.mx/wp-content/uploads/2017/07/snickers-100x100.jpg"
+    },
+    {
+        "precio":27,
+        "id":10,
+        "title":"lays verdes",
+        "thumbnaiUrl":"https://www.urumercado.com/wp-content/uploads/2021/11/P227304-2-100x100.jpg"
+    },
+    {
+        "precio":28,
+        "id":11,
+        "title":"lays amarillos",
+        "thumbnaiUrl":"https://granjaus.com/wp-content/uploads/2020/03/papas-fritas-lays-clasicas-45-gr-100x100.jpg"
+    },
+    {
+        "precio":27,
+        "id":12,
+        "title":"doritos azules",
+        "thumbnaiUrl":"https://realdutchfood.com/wp-content/uploads/2013/02/Doritos-Cool-American-100x100.webp"
+    }
+
+]
